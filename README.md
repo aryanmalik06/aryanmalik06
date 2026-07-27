@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/> -->
 
-<h1 align="center">Hi 👋, I'm ARyan 😎 </h1>
+<h1 align="center">Hi 👋, I'm Aryan 😎 </h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
@@ -58,10 +58,10 @@ KNOWING ABOUT
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amarkumarexecuter&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarkumarexecuter&theme=tokyonight" width="100%"/>
-  <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanC77&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanmalik06&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanmalik06&theme=tokyonight" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=AryanC77&theme=tokyonight&hide_border=false" width="100%"/>
 </div>
 
 ---
