@@ -100,7 +100,7 @@ KNOWING ABOUT
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/amarsingh_24" target="_blank">
+  <a href="https://www.instagram.com/aryn_chdry" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -117,9 +117,8 @@ KNOWING ABOUT
 +Student & Frontend Developer focusing on modern UI/UX, animations, and dark-themed web apps.
 +Always exploring new tools and improving my development skills.
 +Google Search Identity
-+Amar kumar Developer  
-+Amar kumar Delhi  
-+amarkumarExecuter GitHub  
++Aryan Malik Developer    
++aryanmalik06 GitHub  
 
 ---
 
