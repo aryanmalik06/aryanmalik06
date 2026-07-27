@@ -26,7 +26,7 @@ I’m **Aryan Malik**, a **Software Developer** passionate about building scalab
 ---<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amar%20Kumar&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Aryan%20Malik&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
 </p>
 
 <p align="center">
@@ -58,10 +58,10 @@ KNOWING ABOUT
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryanC77&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanmalik06&theme=tokyonight" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanmalik06&theme=tokyonight" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanmalik06&theme=tokyonight" width="100%"/>
-  <img src="https://streak-stats.demolab.com/?user=AryanC77&theme=tokyonight&hide_border=false" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=aryanmalik06&theme=tokyonight&hide_border=false" width="100%"/>
 </div>
 
 ---
